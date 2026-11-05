@@ -1,0 +1,1476 @@
+[
+  {
+    "filename": "landscape-01-welcome.png",
+    "title": "Welcome / tap anywhere",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 4315428,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-02-recipient-entry.png",
+    "title": "Recipient form — empty",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 2886012,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "form"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-03-four-recipients.png",
+    "title": "Recipient form — four players",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 2823911,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "form"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-04-invalid-email.png",
+    "title": "Recipient validation error",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 2858403,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "form"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-05-confirmation.png",
+    "title": "Confirm recipients",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 2895765,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "confirm"
+      ],
+      "modal": null
+    }
+  },
+  {
+    "filename": "landscape-06-preparing.png",
+    "title": "Preparing recording",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 2974817,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "session"
+      ],
+      "modal": null,
+      "subtitle": "Getting your match ready…",
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-07-countdown.png",
+    "title": "3–2–1 countdown",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 183032,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "session"
+      ],
+      "modal": null,
+      "subtitle": "Get ready for your match.",
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-08-recording.png",
+    "title": "Recording — new player subtitle",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 2877448,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "session"
+      ],
+      "modal": null,
+      "subtitle": "Every rally. Every great shot. Captured.",
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-09-finalizing.png",
+    "title": "Finalizing recording",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 2977593,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "session"
+      ],
+      "modal": null,
+      "subtitle": "Saving your replay safely…",
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-10-completion.png",
+    "title": "Recording complete",
+    "category": "Player flow",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 4265269,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-11-camera-setup.png",
+    "title": "Camera setup and quality selection",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 560493,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 388.6015625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 436.6015625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-11b-quality-options.png",
+    "title": "Resolution and frame-rate options",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 514720,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 388.6015625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 436.6015625,
+        "left": 140
+      }
+    }
+  },
+  {
+    "filename": "landscape-12-camera-testing.png",
+    "title": "Three-second camera test",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 2964409,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "session"
+      ],
+      "modal": null,
+      "subtitle": "Checking your picture and sound…",
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-15-enrollment.png",
+    "title": "Enrollment dialog",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 581241,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 367.140625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 415.140625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-16-enrollment-error.png",
+    "title": "Enrollment validation error",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 572390,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 391.640625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 439.640625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-17-saved-enrollment.png",
+    "title": "Saved enrollment — reconnect",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 602465,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 336.5625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 384.5625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-18-inactive-registration.png",
+    "title": "Inactive registration",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 612136,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 336.5625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 384.5625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-19-permission.png",
+    "title": "Camera permission explanation",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 623071,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 306.1015625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 354.1015625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-20-session-recovery.png",
+    "title": "Previous session recovery",
+    "category": "Recovery",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 623245,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 336.5625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 384.5625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-21-partial-recovery.png",
+    "title": "Recover partial footage",
+    "category": "Recovery",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 641181,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 306.1015625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 354.1015625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-22-retry-dialog.png",
+    "title": "Retry saved video confirmation",
+    "category": "Recovery",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 624291,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 306.1015625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 354.1015625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-23-discard-dialog.png",
+    "title": "Discard confirmation",
+    "category": "Recovery",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 617598,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 306.1015625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 354.1015625,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-24-leave-dialog.png",
+    "title": "Leave while recording",
+    "category": "Recovery",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 324316,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal",
+        "session"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 275.640625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 323.640625,
+        "left": 140
+      },
+      "subtitle": "Every rally. Every great shot. Captured.",
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-25-saved-empty.png",
+    "title": "Saved videos — empty",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 3023663,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-26-saved-local.png",
+    "title": "Saved videos — local copy and preview placeholder",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 1264984,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null
+    },
+    "note": "UI fixture with the packaged preview placeholder; this capture does not test video playback."
+  },
+  {
+    "filename": "landscape-27-saved-waiting.png",
+    "title": "Saved video — waiting to upload",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 1263415,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null
+    },
+    "note": "UI fixture with the packaged preview placeholder; this capture does not test video playback."
+  },
+  {
+    "filename": "landscape-28-logo-processing.png",
+    "title": "Legacy video — adding logo progress",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 1301605,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-29-uploading.png",
+    "title": "Saved video — uploading",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 1263857,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null
+    },
+    "note": "UI fixture with the packaged preview placeholder; this capture does not test video playback."
+  },
+  {
+    "filename": "landscape-30-upload-retrying.png",
+    "title": "Saved video — retry scheduled",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 1274868,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null
+    },
+    "note": "UI fixture with the packaged preview placeholder; this capture does not test video playback."
+  },
+  {
+    "filename": "landscape-31-upload-failed.png",
+    "title": "Saved video — manual retry after eight attempts",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 1276903,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null
+    },
+    "note": "UI fixture with the packaged preview placeholder; this capture does not test video playback."
+  },
+  {
+    "filename": "landscape-32-saved-details.png",
+    "title": "Saved video — error details",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 264843,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal",
+        "saved-videos"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 299.1796875,
+        "top": 48,
+        "right": 1140,
+        "bottom": 347.1796875,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-33-exported.png",
+    "title": "Saved video — exported / remove app copy",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 1262862,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null
+    },
+    "note": "UI fixture with the packaged preview placeholder; this capture does not test video playback."
+  },
+  {
+    "filename": "landscape-34-remove-dialog.png",
+    "title": "Remove app copy confirmation",
+    "category": "Saved videos",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 264694,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal",
+        "saved-videos"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 299.1796875,
+        "top": 48,
+        "right": 1140,
+        "bottom": 347.1796875,
+        "left": 140
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-35-offline.png",
+    "title": "Offline notification",
+    "category": "Connection",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 4246580,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-36-reconnecting.png",
+    "title": "Reconnecting notification",
+    "category": "Connection",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 4308141,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-37-reconnect-failed.png",
+    "title": "Connection failed / retry",
+    "category": "Connection",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 4255460,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-38-update-checking.png",
+    "title": "Checking required app version",
+    "category": "Updates",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 750546,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "required-update"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-39-update-required.png",
+    "title": "Required update gate — illustrative policy",
+    "category": "Updates",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 765495,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "required-update"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "landscape-40-enrollment-keyboard.png",
+    "title": "Enrollment focused — Android input toolbar",
+    "category": "Setup",
+    "orientation": "landscape",
+    "kind": "demo",
+    "width": 2560,
+    "height": 1600,
+    "bytes": 582777,
+    "bounds": {
+      "viewport": [
+        1280,
+        800
+      ],
+      "document": [
+        1280,
+        800
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 140,
+        "y": 48,
+        "width": 1000,
+        "height": 367.140625,
+        "top": 48,
+        "right": 1140,
+        "bottom": 415.140625,
+        "left": 140
+      }
+    }
+  },
+  {
+    "filename": "portrait-01-welcome.png",
+    "title": "Welcome / tap anywhere",
+    "category": "Player flow",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 3042968,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-02-recipient-entry.png",
+    "title": "Recipient form — empty",
+    "category": "Player flow",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 1992991,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "form"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-03-four-recipients.png",
+    "title": "Recipient form — four players",
+    "category": "Player flow",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 1936540,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "form"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-05-confirmation.png",
+    "title": "Confirm recipients",
+    "category": "Player flow",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 2021913,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "confirm"
+      ],
+      "modal": null,
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-07-countdown.png",
+    "title": "3–2–1 countdown",
+    "category": "Player flow",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 113848,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "session"
+      ],
+      "modal": null,
+      "subtitle": "Get ready for your match.",
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-08-recording.png",
+    "title": "Recording — new player subtitle",
+    "category": "Player flow",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 2006696,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "session"
+      ],
+      "modal": null,
+      "subtitle": "Every rally. Every great shot. Captured.",
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-11-camera-setup.png",
+    "title": "Camera setup and quality selection",
+    "category": "Setup",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 546503,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 14,
+        "y": 76.796875,
+        "width": 772,
+        "height": 327.7734375,
+        "top": 76.796875,
+        "right": 786,
+        "bottom": 404.5703125,
+        "left": 14
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-15-enrollment.png",
+    "title": "Enrollment dialog",
+    "category": "Setup",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 532078,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 14,
+        "y": 76.796875,
+        "width": 772,
+        "height": 336.7734375,
+        "top": 76.796875,
+        "right": 786,
+        "bottom": 413.5703125,
+        "left": 14
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-17-saved-enrollment.png",
+    "title": "Saved enrollment — reconnect",
+    "category": "Setup",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 546196,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 14,
+        "y": 76.796875,
+        "width": 772,
+        "height": 261.3671875,
+        "top": 76.796875,
+        "right": 786,
+        "bottom": 338.1640625,
+        "left": 14
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  },
+  {
+    "filename": "portrait-26-saved-local.png",
+    "title": "Saved videos — local copy and preview placeholder",
+    "category": "Saved videos",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 734369,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null
+    },
+    "note": "UI fixture with the packaged preview placeholder; this capture does not test video playback."
+  },
+  {
+    "filename": "portrait-31-upload-failed.png",
+    "title": "Saved video — manual retry after eight attempts",
+    "category": "Saved videos",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 745031,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "saved-videos"
+      ],
+      "modal": null
+    },
+    "note": "UI fixture with the packaged preview placeholder; this capture does not test video playback."
+  },
+  {
+    "filename": "portrait-40-enrollment-keyboard.png",
+    "title": "Enrollment focused — Android input toolbar",
+    "category": "Setup",
+    "orientation": "portrait",
+    "kind": "demo",
+    "width": 1600,
+    "height": 2560,
+    "bytes": 540909,
+    "bounds": {
+      "viewport": [
+        800,
+        1280
+      ],
+      "document": [
+        800,
+        1280
+      ],
+      "visible": [
+        "modal"
+      ],
+      "modal": {
+        "x": 14,
+        "y": 76.796875,
+        "width": 772,
+        "height": 336.7734375,
+        "top": 76.796875,
+        "right": 786,
+        "bottom": 413.5703125,
+        "left": 14
+      },
+      "subtitle": null,
+      "keyboard": false
+    }
+  }
+]
