@@ -5,9 +5,9 @@ The root `index.html` displays **51 original APK screenshots** from DinkVision *
 - **39 landscape screenshots** at 2560 × 1600.
 - **12 portrait screenshots** at 1600 × 2560.
 
-Open `index.html` in a browser after downloading this repository, or serve the repository root as a static website. Use the orientation selector to view landscape screenshots only. Category and text filters help find a particular screen. Click an image to open its full-resolution PNG. The gallery has no external assets or build step.
+Open `index.html` in a browser after downloading this repository, or serve the repository root as a static website. Use the orientation selector to view landscape screenshots only. Category and text filters help find a particular screen. Click an image to preview its full-resolution PNG in a popup on the same page. Close it using the Close button, Escape, or the dimmed background. The gallery has no external assets or build step.
 
-All PNG files referenced by the gallery are committed beside `index.html`. Keep them together when copying or hosting the gallery. `manifest.json` records filenames, screen labels, dimensions, and captured layout measurements. `.nojekyll` allows the files to be served directly by GitHub Pages when Pages is configured.
+All PNG files referenced by the gallery are committed beside `index.html`. Keep them together with `viewer.css` and `viewer.js` when copying or hosting the gallery. `manifest.json` records filenames, screen labels, dimensions, and captured layout measurements. `.nojekyll` allows the files to be served directly by GitHub Pages when Pages is configured.
 
 ## Capture scope
 
